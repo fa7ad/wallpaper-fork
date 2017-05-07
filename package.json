@@ -1,9 +1,9 @@
 {
-  "name": "wallpaper",
-  "version": "2.4.0",
+  "name": "@fa7ad/wallpaper",
+  "version": "2.4.2a",
   "description": "Get or set the desktop wallpaper",
   "license": "MIT",
-  "repository": "sindresorhus/wallpaper",
+  "repository": "fa7ad/wallpaper",
   "author": {
     "name": "Sindre Sorhus",
     "email": "sindresorhus@gmail.com",

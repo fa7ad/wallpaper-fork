@@ -8,7 +8,7 @@ Works on macOS, Linux, and Windows.
 ## Install
 
 ```
-$ npm install --save wallpaper
+$ npm install --save @fa7ad/wallpaper
 ```
 
 
@@ -59,7 +59,7 @@ Scaling method. Only available on macOS.
 
 ## Related
 
-- [wallpaper-cli](https://github.com/sindresorhus/wallpaper-cli) - CLI for this module
+- [wallpaper-cli](https://github.com/fa7ad/wallpaper-cli) - CLI for this module
 - [macos-wallpaper](https://github.com/sindresorhus/macos-wallpaper) - macOS binary used in this module
 - [win-wallpaper](https://github.com/sindresorhus/win-wallpaper) - Windows binary used in this module
 
